@@ -2,15 +2,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d3b6e,100:1a6fc4&height=130&section=header&animation=fadeIn" width="100%"/>
 </div>
 
-<h1 align="center">Hi, I'm Deodat 👋</h1>
+---
+
+<br/>
+
+<div align="center">
+
+  <img src="./assets/Banière.png" width="100%" />
+
+</div>
+
+<h2 align="center">
+  👋 Welcome, I'm <strong>D. Protocol</strong>
+</h2>
 
 <p align="center">
-  <strong>Full Stack Developer &nbsp;·&nbsp; Data Science & AI &nbsp;·&nbsp; Robotics</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=1A6FC4&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Data+Science+%26+AI+Engineer;Robotics+%26+Embedded+Systems+Builder" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  I build intelligent systems — from responsive web apps to ML models and robotic solutions.<br/>
-  Evolving at the intersection of <strong>AI</strong>, <strong>Web</strong> and <strong>Robotics</strong>, one commit at a time.
+  I love turning ideas into reality <br/>
+  from a simple line of code to intelligent systems, robots and creative projects.
+  <br/><br/>
+  Always learning, always experimenting, always building something new.
 </p>
 
 <br/>
@@ -20,68 +34,137 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Collaborate-✔-2196F3?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Learning-ROS2%20·%20OpenAI%20·%20LLMs-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Grow-✔-orange?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Always%20Learning-orange?style=flat-square&logo=bookstack&logoColor=white&label="/>
 </p>
 
 ---
 
 ## 🛠 &nbsp;Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-**Web & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**AI · Data Science**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Robotics & Embedded**
-
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<div align="center">
+<br/>
+<table border="1" cellspacing="0" cellpadding="16">
+  <tr>
+    <th colspan="5">⌨️ &nbsp; Languages</th>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/><br/>
+      <sub><b>C#</b></sub>
+    </td>
+  </tr>
+</table>
+<br/>
+<table border="1" cellspacing="0" cellpadding="16">
+  <tr>
+    <th colspan="5">🌐 &nbsp; Web & Backend</th>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Nest.js"/><br/>
+      <sub><b>Nest.js</b></sub>
+    </td>
+  </tr>
+</table>
+<br/>
+<table border="1" cellspacing="0" cellpadding="16">
+  <tr>
+    <th colspan="5">🤖 &nbsp; AI · Data Science</th>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn"/><br/>
+      <sub><b>Scikit-learn</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/><br/>
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/openai/a78bfa" width="48" height="48" alt="OpenAI"/><br/>
+      <sub><b>OpenAI</b></sub>
+    </td>
+  </tr>
+</table>
+<br/>
+<table border="1" cellspacing="0" cellpadding="16">
+  <tr>
+    <th colspan="2">🦾 &nbsp; Robotics & Embedded</th>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino"/><br/>
+      <sub><b>Arduino</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS 2"/><br/>
+      <sub><b>ROS 2</b></sub>
+    </td>
+  </tr>
+</table>
+<br/>
+</div>
 
 ---
 
 ## 📊 &nbsp;GitHub Stats
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Deodat2&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true"/>
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deodat2&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</p>
+<div align="center">
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Protocol-Tech&theme=react-dark&hide_border=true&area=true&area_color=1a6fc4&line=1a6fc4&point=c9d1d9&color=c9d1d9&bg_color=0d1117" width="100%"/>
+<!-- <br/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=D-Protocol-Tech&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1a6fc4&icon_color=1a6fc4&text_color=c9d1d9&count_private=true&rank_icon=github"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Protocol-Tech&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1a6fc4&text_color=c9d1d9&langs_count=6"/> -->
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deodat2&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="130"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=D-Protocol-Tech&theme=dark&hide_border=true&background=0d1117&stroke=1a6fc4&ring=1a6fc4&fire=1a6fc4&currStreakLabel=1a6fc4" height="145"/>
+<br/>
+</div>
 
 ---
-
-## 🤝 &nbsp;Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/deodatamevor">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://dais-tp.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="32"/>
-  </a>
-</p>
 
 <br/>
 
