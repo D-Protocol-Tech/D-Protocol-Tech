@@ -13,7 +13,7 @@
 </div>
 
 <h2 align="center">
-  👋 Welcome, I'm <strong>D. Protocol</strong>
+  👋 Welcome, to <strong>D. Protocol</strong>
 </h2>
 
 <p align="center">
